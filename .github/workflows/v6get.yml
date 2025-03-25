@@ -1,0 +1,34 @@
+name: IPTV(v6) Resources Update
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update_filters:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get IPTV Resources files
+        run: |
+          update_time=$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')
+          url="https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv6-itv.m3u"
+          echo "正在处理 iptv.txt..."
+          {
+            echo "# Update Time: $update_time"
+            curl -sSL "$url" || echo "获取文件失败"
+          } > iptv.txt
+
+      - name: Commit and push updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update v6 live"
+            git push
+          else
+            echo "No changes."
+          fi
