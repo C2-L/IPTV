@@ -15,11 +15,8 @@ jobs:
         run: |
           update_time=$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')
           url="https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv6-itv.m3u"
-          echo "正在处理 iptv.txt..."
-          {
-            echo "# Update Time: $update_time"
-            curl -sSL "$url" || echo "获取文件失败"
-          } > v6live.txt
+          echo "正在处理 v6live.txt..."
+          curl -sSL "$url" > v6live.txt || echo "获取文件失败"
 
       - name: Commit and push updates
         run: |
