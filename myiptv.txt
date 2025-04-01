@@ -1,4 +1,4 @@
-央视频道jyd,#genre#
+央视频道,#genre#
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226221/index.m3u8
@@ -40,12 +40,12 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3
 CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
 CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
 
-港澳台jyd,#genre#
+港澳台,#genre#
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 
-卫视频道jyd,#genre#
+卫视频道,#genre#
 安徽卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
 安徽卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225737/index.m3u8
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
@@ -94,7 +94,7 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
 
-江西本地jyd,#genre#
+江西本地,#genre#
 江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
 江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
 江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
@@ -110,14 +110,14 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 江西影视旅游,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/10000100000000060000000000000029_0.smil/index.m3u8?fmt=ts2hls
 江西影视旅游,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
 
-儿童频道jyd,#genre#
+儿童频道,#genre#
 江西少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
 
-电影频道jyd,#genre#
+电影频道,#genre#
 江西影视旅游,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/10000100000000060000000000000029_0.smil/index.m3u8?fmt=ts2hls
 江西影视旅游,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
 
-其他频道jyd,#genre#
+其他频道,#genre#
 新华社,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
 新华社英文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
 湖南快乐购,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225975/index.m3u8
@@ -127,7 +127,7 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 江西风尚购物,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225974/index.m3u8
 山西优购物,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226219/index.m3u8
 
-央视频道jdx,#genre#
+央视频道,#genre#
 CCTV1,rtsp://115.153.254.81/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV1,rtsp://115.153.254.81/PLTV/88888888/224/3221225517/iptv7949.smil
 CCTV2,rtsp://115.153.254.81/PLTV/88888888/224/3221226825/59814584.smil
@@ -205,7 +205,7 @@ CGTN阿语,http://115.153.254.81/PLTV/88888888/224/3221226951/77799001.smil/inde
 中国天气,http://115.153.254.81/PLTV/88888888/224/3221227056/89471929.smil/index.m3u8?fmt=ts2hls
 收视指南,http://115.153.254.81/PLTV/88888888/224/3221226987/86440886.smil/index.m3u8?fmt=ts2hls
 
-江西本地jdx,#genre#
+江西本地,#genre#
 江西都市频道,rtsp://115.153.254.81/PLTV/88888888/224/3221227069/94448631.smil
 江西经济生活,rtsp://115.153.254.81/PLTV/88888888/224/3221226717/53707446.smil
 江西经济生活频道,rtsp://115.153.254.81/PLTV/88888888/224/3221226946/70055407.smil
@@ -225,7 +225,7 @@ CGTN阿语,http://115.153.254.81/PLTV/88888888/224/3221226951/77799001.smil/inde
 江西新闻频道,http://115.153.254.81/PLTV/88888888/224/3221226650/53190437.smil/index.m3u8?fmt=ts2hls
 
 
-卫视频道jdx,#genre#
+卫视频道,#genre#
 江西卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221226656/46275837.smil
 湖南卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225697/iptv8039.smil
 浙江卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil
@@ -303,7 +303,7 @@ CGTN阿语,http://115.153.254.81/PLTV/88888888/224/3221226951/77799001.smil/inde
 
 
 
-电影频道jdx,#genre#
+电影频道,#genre#
 CHC影迷电影,rtsp://115.153.254.81/PLTV/88888888/224/3221226990/86128784.smil
 CHC家庭影院,rtsp://115.153.254.81/PLTV/88888888/224/3221226959/86128800.smil
 CHC动作电影,rtsp://115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil
@@ -348,7 +348,7 @@ CHC动作电影,http://115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil
 经典剧场,http://115.153.254.81/PLTV/88888888/224/3221227034/86502060.smil/index.m3u8?fmt=ts2hls
 红色影院,http://115.153.254.81/PLTV/88888888/224/3221227036/86502103.smil/index.m3u8?fmt=ts2hls
 
-体育频道jdx,#genre#
+体育频道,#genre#
 足球,rtsp://115.153.254.81/PLTV/88888888/224/3221227019/86502107.smil
 汽摩,rtsp://115.153.254.81/PLTV/88888888/224/3221226819/59781852.smil
 车迷,rtsp://115.153.254.81/PLTV/88888888/224/3221227027/86502211.smil
@@ -374,7 +374,7 @@ CHC动作电影,http://115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil
 爱体育,http://115.153.254.81/PLTV/88888888/224/3221227012/86440946.smil/index.m3u8?fmt=ts2hls
 爱体育,http://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil/index.m3u8?fmt=ts2hls
 
-儿童频道jdx,#genre#
+儿童频道,#genre#
 中国教育1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 中国教育2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 中国教育4频道,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
@@ -432,7 +432,7 @@ CHC动作电影,http://115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil
 
 
 
-特色频道jdx,#genre#
+特色频道,#genre#
 IPTV谍战剧场,rtsp://115.153.254.81/PLTV/88888888/224/3221227016/86441085.smil
 IPTV相声小品,rtsp://115.153.254.81/PLTV/88888888/224/3221226989/86441091.smil
 IPTV野外,rtsp://115.153.254.81/PLTV/88888888/224/3221226991/86441042.smil
@@ -481,7 +481,7 @@ IPTV法治,http://115.153.254.81/PLTV/88888888/224/3221226993/86440997.smil/inde
 美人,http://115.153.254.81/PLTV/88888888/224/3221227015/86502099.smil/index.m3u8?fmt=ts2hls
 财富天下,http://115.153.254.81/PLTV/88888888/224/3221227068/95616594.smil/index.m3u8?fmt=ts2hls
 
-其他频道jdx,#genre#
+其他频道,#genre#
 精选,rtsp://115.153.254.81/PLTV/88888888/224/3221227005/86441212.smil
 爱上4K,rtsp://115.153.254.81/PLTV/88888888/224/3221227025/86502164.smil
 电视指南,rtsp://115.153.254.81/PLTV/88888888/224/3221226969/86129034.smil
