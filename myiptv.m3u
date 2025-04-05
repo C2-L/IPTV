@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://iptv.im2k.com/epg"
-iRet = Authentication.CUSetConfig('Channel','ChannelID="373",ChannelName="贵州-2 公共频道 （高清）",UserChannelID="2",ChannelURL="igmp://239.254.21.2:7000|rtsp://10.11.187.39/PLTV/8888888 ... &GuardEncType=2
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://iptv.im2k.com/logo/CCTV1.png" group-title="中央",CCTV-1综合
-rtp://239.254.20.231.174:7000
+igmp://239.254.21.2:7000|rtsp://10.11.187.39/PLTV/8888888
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://iptv.im2k.com/logo/CCTV2.png" group-title="中央",CCTV-2财经
 rtp://10.102.200.60:8084
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://iptv.im2k.com/logo/CCTV3.png" group-title="中央",CCTV-3综艺
