@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://iptv.im2k.com/epg"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://iptv.im2k.com/logo/CCTV1.png" group-title="中央",CCTV-1综合
-rtp://10.102.200.129:8008
+rtp://239.254.20.231.174:7000
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://iptv.im2k.com/logo/CCTV2.png" group-title="中央",CCTV-2财经
 rtp://10.102.200.60:8084
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://iptv.im2k.com/logo/CCTV3.png" group-title="中央",CCTV-3综艺
