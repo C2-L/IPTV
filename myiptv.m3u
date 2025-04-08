@@ -1,8 +1,2 @@
-#EXTM3U url-tvg="http://iptv.im2k.com/epg"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://iptv.im2k.com/logo/CCTV1.png" group-title="中央",CCTV-1综合
-http://175.16.151.198:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.198.138:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-http://14.212.185.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-http://101.65.34.130:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-http://221.193.168.36:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://175.16.151.198:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0, http://101.66.198.138:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0, http://14.212.185.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, http://101.65.34.130:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0, http://221.193.168.36:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
