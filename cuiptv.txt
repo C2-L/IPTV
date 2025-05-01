@@ -41,19 +41,13 @@ https://tv.iill.top/migu/cetv1
 https://tv.iill.top/migu/cetv2
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://live.fanmingming.cn/tv/CETV3.png" group-title="央视频道",CETV3
 https://tv.iill.top/migu/cetv3
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="央视频道",CETV4
+https://tv.iill.top/migu/cetv4
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 https://tv.iill.top/migu/jsws
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-https://tv.iill.top/migu/hnws
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
-
-
-
-
-
-
-
-
-
+http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
