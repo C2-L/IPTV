@@ -115,6 +115,12 @@ https://nptv.freetv.top/nptv/xinjiang.m3u8
 https://nptv.freetv.top/nptv/xizang.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/322/852/202304081513_1677570732561_H169_1080.jpg" group-title="卫视", 大湾区卫视
 https://www.freetv.top/migu/608917627.m3u8?migutoken=7674242feca82e04b47644dfd2d1305d88bea9914356cd5fed2240d549133aef35c795f749704da9bbddade2697d2ecd3eba4ea6f58e46ca419146a8666ee8a14d6f7654f28b494c946acea7d6
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="数字",第一剧场
+https://nptv.freetv.top/nptv/dyjc.m3u8
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="数字",风云剧场
+https://nptv.freetv.top/nptv/fyjc.m3u8
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="数字",怀旧剧场
+https://nptv.freetv.top/nptv/hjjc.m3u8
 #EXTINF:-1,tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="地方",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/275/202107191641_5100001716_H169_1080.jpg" group-title="地方", 上海新闻综合
@@ -199,12 +205,6 @@ https://nptv.freetv.top/nptv/cgtnfr.m3u8
 https://nptv.freetv.top/nptv/cgtnsp.m3u8
 #EXTINF:-1,tvg-id="cgtn阿语" tvg-name="cgtn阿语" tvg-logo="https://epg.v1.mk/logo/cgtn阿语.png" group-title="央视",CGTN阿语
 https://nptv.freetv.top/nptv/cgtnar.m3u8
-#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="数字",第一剧场
-https://nptv.freetv.top/nptv/dyjc.m3u8
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="数字",风云剧场
-https://nptv.freetv.top/nptv/fyjc.m3u8
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="数字",怀旧剧场
-https://nptv.freetv.top/nptv/hjjc.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="数字", 新片放映厅
 https://www.freetv.top/migu/619495952.m3u8?migutoken=16e1ef88e522b3ded1b1f9adac95a74ca4709f3248f162b37b06911524f00bf8419f79b0bc3ba0a423b3b1469b62d65db231d97301ed0a50320a8b8eac7556a4e2b9f3bf26241ef8cd3c1847b8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/176/202504161629_1744788994468_H169_1080.jpg" group-title="数字", CHC影迷电影
