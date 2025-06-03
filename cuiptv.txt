@@ -115,11 +115,11 @@ https://nptv.freetv.top/nptv/xinjiang.m3u8
 https://nptv.freetv.top/nptv/xizang.m3u8
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
 https://www.freetv.top/migu/608917627.m3u8?migutoken=7674242feca82e04b47644dfd2d1305d88bea9914356cd5fed2240d549133aef35c795f749704da9bbddade2697d2ecd3eba4ea6f58e46ca419146a8666ee8a14d6f7654f28b494c946acea7d6
-#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" group-title="数字",第一剧场
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" group-title="央视",第一剧场
 https://nptv.freetv.top/nptv/dyjc.m3u8
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" group-title="数字",风云剧场
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" group-title="央视",风云剧场
 https://nptv.freetv.top/nptv/fyjc.m3u8
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" group-title="数字",怀旧剧场
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" group-title="央视",怀旧剧场
 https://nptv.freetv.top/nptv/hjjc.m3u8
 #EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" group-title="央视",CGTN
 https://nptv.freetv.top/nptv/cgtn.m3u8
