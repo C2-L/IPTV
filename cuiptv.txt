@@ -133,7 +133,7 @@ https://nptv.freetv.top/nptv/cgtnfr.m3u8
 https://nptv.freetv.top/nptv/cgtnsp.m3u8
 #EXTINF:-1,tvg-id="cgtn阿语" tvg-name="cgtn阿语" group-title="央视",CGTN阿语
 https://nptv.freetv.top/nptv/cgtnar.m3u8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="数字", 新片放映厅
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" group-title="数字", 新片放映厅
 https://www.freetv.top/migu/619495952.m3u8?migutoken=16e1ef88e522b3ded1b1f9adac95a74ca4709f3248f162b37b06911524f00bf8419f79b0bc3ba0a423b3b1469b62d65db231d97301ed0a50320a8b8eac7556a4e2b9f3bf26241ef8cd3c1847b8
 #EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="数字",CHC影迷电影
 https://www.freetv.top/migu/952383261.m3u8?migutoken=0f03f8a6f21f3e880b2ed92692fbe91d8dfce085abaada08b765403bb02ba21efe24ac5dfc6309d458109e6269008dda7a81bf1db4a96cdd7f6a515525d70c5c0bd48cff6a5c04883f4bb888b7
