@@ -39,11 +39,11 @@ https://tv.iill.top/migu/cctv17
 https://tv.iill.top/migu/cctv4o
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" group-title="央视",CCTV4美洲
 https://tv.iill.top/migu/cctv4m
-#EXTINF:-1 tvg-id="CHC 影迷电影" tvg-name="CHC 影迷电影" group-title="数字",CHC 影迷电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="数字",CHC影迷电影
 https://tv.iill.top/migu/chcym
-#EXTINF:-1 tvg-id="CHC 动作电影" tvg-name="CHC 动作电影" group-title="数字",CHC 动作电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="数字",CHC动作电影
 https://tv.iill.top/migu/chcdz
-#EXTINF:-1 tvg-id="CHC 家庭影院" tvg-name="CHC 家庭影院" group-title="数字",CHC 家庭影院
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="数字",CHC家庭影院
 https://tv.iill.top/migu/chcjt
 #EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" group-title="数字",新片放映厅
 https://tv.iill.top/migu/xpfy
