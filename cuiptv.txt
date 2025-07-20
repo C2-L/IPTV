@@ -39,3 +39,33 @@ https://tv.iill.top/migu/cctv17
 https://tv.iill.top/migu/cctv4o
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" group-title="央视",CCTV4美洲
 https://tv.iill.top/migu/cctv4m
+#EXTINF:-1 tvg-id="CHC 影迷电影" tvg-name="CHC 影迷电影" group-title="数字",CHC 影迷电影
+https://tv.iill.top/migu/chcym
+#EXTINF:-1 tvg-id="CHC 动作电影" tvg-name="CHC 动作电影" group-title="数字",CHC 动作电影
+https://tv.iill.top/migu/chcdz
+#EXTINF:-1 tvg-id="CHC 家庭影院" tvg-name="CHC 家庭影院" group-title="数字",CHC 家庭影院
+https://tv.iill.top/migu/chcjt
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" group-title="数字",新片放映厅
+https://tv.iill.top/migu/xpfy
+#EXTINF:-1 tvg-id="高清大片" tvg-name="高清大片" group-title="数字",高清大片
+https://tv.iill.top/migu/gqdp
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
+https://tv.iill.top/migu/dfws
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
+https://tv.iill.top/migu/jsws
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
+https://tv.iill.top/migu/gdws
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视
+https://tv.iill.top/migu/jxws
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
+https://tv.iill.top/migu/hubws
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
+https://tv.iill.top/migu/hunws
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视",陕西卫视
+https://tv.iill.top/migu/sxws
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视",东南卫视
+https://tv.iill.top/migu/dnws
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="卫视",海峡卫视
+https://tv.iill.top/migu/hxws
