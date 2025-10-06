@@ -115,8 +115,6 @@ https://tv.iill.top/migu-1/chcjt
 https://tv.iill.top/migu-1/xpfy
 #EXTINF:-1 tvg-id="香港经典电影" tvg-name="香港经典电影" group-title="数字",香港经典电影
 https://tv.iill.top/migu-1/hkdy
-#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",林正英电影
-http://iptv.jxpan.vip:18888/aio/huya/11342421
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",周星驰电影
 http://iptv.jxpan.vip:18888/aio/huya/11342412
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",刘德华电影
@@ -129,6 +127,8 @@ http://iptv.jxpan.vip:18888/aio/huya/11342386
 http://iptv.jxpan.vip:18888/aio/huya/11342390
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",甄子丹电影
 http://iptv.jxpan.vip:18888/aio/huya/11352935
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",林正英电影
+http://iptv.jxpan.vip:18888/aio/huya/11342421
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",沈腾电影
 http://iptv.jxpan.vip:18888/aio/huya/11601968
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影频道",黄渤电影
